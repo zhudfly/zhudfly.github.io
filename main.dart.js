@@ -49988,7 +49988,7 @@ var $async$Lw=P.J(function(a,b){if(a===1)return P.K(b,r)
 while(true)switch(s){case 0:p=$.oo()
 o=p.h(0,"WVJBCallbacks")==null?"no":p.h(0,"WVJBCallbacks")
 n=String(p.Yo("androidForJS"))+" hasAndroidForJs"
-p.md("alert",["Hello from dart "+o+("Instance of '"+H.G9(window)+"'")+(" "+n)])
+p.md("alert",["1Hello from dart "+o+("Instance of '"+H.G9(window)+"'")+(" "+n)])
 if(p.Yo("androidForJS"))p.md("alert",["js -> native : "+H.f(P.aLu(p.h(0,"androidForJS")).Wb("getJson4group"))])
 P.bN("Where am i?")
 q=""

@@ -49988,7 +49988,7 @@ var $async$Ly=P.J(function(a,b){if(a===1)return P.K(b,r)
 while(true)switch(s){case 0:i=$.oo()
 if(i.h(0,"WVJBCallbacks")!=null)i.h(0,"WVJBCallbacks")
 i.Ic("method")
-P.bp("1Hello from dart: "+(String(i.BL("bridge"))+" hasBridge"))
+P.bp("2Hello from dart: "+(String(i.BL("bridge"))+" hasBridge"))
 if(i.BL("bridge")){l=t.N
 k=P.D(["action","toast","msg","Hello"],l,l)
 i.h(0,"bridge").nN("callHandler",H.a(["CommonCallback",k],t.jl))}P.bp("Hello from dart: "+(String(i.BL("androidForJS"))+" hasAndroidForJs"))
